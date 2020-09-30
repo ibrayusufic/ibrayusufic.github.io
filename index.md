@@ -15,7 +15,7 @@ Steganography is the practice of concealing a file, message, image, or video wit
 
 So I tried it out and here is the output after I was done! can you guess the secret?
 
-![](assets/YuSuFS3r3tPss.jpg)
+![](assets/stego.jpg)
 
 Have fun solving it! Here's some music to listen to while you're trying to solve it! Rock on \m/
 
