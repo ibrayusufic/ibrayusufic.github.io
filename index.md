@@ -7,6 +7,7 @@ But while I was on reddit I read about `steganography`, and it seems like a pret
 
 So... here is what it is (according to wikipedia at least):
 
+<br/>
 ## Steganography:
 
 ```
@@ -19,9 +20,9 @@ So I tried it out and here is the output after I was done! can you guess the sec
 
 Have fun solving it! Here's some music to listen to while you're trying to solve it! Rock on \m/
 
-<iframe src="https://open.spotify.com/embed/playlist/45Y6fyltLz8KKvD2XHXw4j" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/45Y6fyltLz8KKvD2XHXw4j" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
+<br/>
 ## Vacation Mode is still going strong!
 
 I am still on vacation while I'm doing all this, which is so much fun to be honest, but there is always time to go do some sightseeing to take some photos!
